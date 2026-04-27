@@ -1,13 +1,9 @@
 # Hi, I'm Tariq Aziz 👋
 
 ## 🚀 About Me
-I am a Python developer focused on building practical business applications using Flask and Django.
+I am a Python developer focused on building practical and scalable applications using Flask and Django.
 
-I specialize in:
-- School Management Systems
-- E-commerce Applications
-- Analytics Dashboards
-- Business Automation Tools
+I enjoy solving real-world problems through software and creating systems that improve business efficiency.
 
 ---
 
@@ -21,22 +17,24 @@ I specialize in:
 
 ---
 
+## 💼 What I Build
+- School Management Systems
+- E-commerce Platforms
+- Business Dashboards
+- Analytics Tools
+- Automation Solutions
+
+---
+
 ## 📌 Current Focus
-Building scalable management systems for schools, businesses, and online stores.
+Building reliable software solutions for education, retail, and business operations.
 
 ---
 
-## 💼 Featured Projects
-- Flask Store  
-- School Management System  
-- Django Analytics Dashboard  
-
----
-
-## 📈 Goals
-To become a highly skilled software developer and create impactful digital solutions.
+## 📈 Career Goal
+To grow as a professional software developer and deliver impactful digital products.
 
 ---
 
 ## 🌐 Connect With Me
-GitHub: https://github.com/tariq-aziz-pro
+GitHub: [tariq-aziz-pro](https://github.com/tariq-aziz-pro)
