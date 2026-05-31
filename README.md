@@ -1,40 +1,108 @@
-# Hi, I'm Tariq Aziz 👋
+<div align="center">
 
-## 🚀 About Me
-I am a Python developer focused on building practical and scalable applications using Flask and Django.
+# Tariq Aziz
+### Python Developer · Django , Flask , ML , Dashboards · Management Systems
 
-I enjoy solving real-world problems through software and creating systems that improve business efficiency.
+[![Website](https://img.shields.io/badge/Portfolio-aliyarweb.com-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://www.aliyarweb.com)
+[![YouTube](https://img.shields.io/badge/YouTube-TariqAzizAcademy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TariqAzizAcademy)
+[![TikTok](https://img.shields.io/badge/TikTok-@instituteoflogic-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@instituteoflogic)
+[![GitHub](https://img.shields.io/badge/GitHub-tariq--aziz--pro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tariq-aziz-pro)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
-- Python
-- Flask
-- Django
-- SQLite / PostgreSQL
-- HTML / CSS / Bootstrap
-- Git & GitHub
+## 👨‍💻 About Me
+
+I'm a Python developer based in **Pakistan**, specializing in building practical, scalable web applications using **Django** , **Steamlit** And **Flask**. I focus on solving real-world problems — from school management systems to e-commerce platforms and business dashboards.
+
+- 🔭 Currently building **management systems** for education and business
+- 🌱 Expanding into **REST APIs** and **data-driven dashboards**
+- 💡 I believe in writing clean, maintainable code that solves real problems
+- 📹 I share Python & web development tutorials on [YouTube](https://www.youtube.com/@TariqAzizAcademy)
+- 🏠 Working remotely from Pakistan
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Databases & Tools**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 💼 What I Build
-- School Management Systems
-- E-commerce Platforms
-- Business Dashboards
-- Analytics Tools
-- Automation Solutions
+
+| Domain | Projects |
+|---|---|
+| 🎓 Education | School Management Systems, Student Portals |
+| 🛒 E-commerce | Flask & Django Stores, Order Management |
+| 📊 Business | Dashboards, Analytics Tools, Admin Panels |
+| ⚙️ Automation | Business Process Automation Scripts |
 
 ---
 
-## 📌 Current Focus
-Building reliable software solutions for education, retail, and business operations.
+## 📌 Featured Projects
+
+### 🏫 [School Management System](https://github.com/tariq-aziz-pro/School-Management)
+> A multi-school management system built with Django.  
+> Handles student records, attendance, scheduling, and administration across multiple schools.
+
+**Stack:** `Python` `Django` `PostgreSQL` `Bootstrap`
 
 ---
 
-## 📈 Career Goal
-To grow as a professional software developer and deliver impactful digital products.
+### 🛍️ [Flask Store](https://github.com/tariq-aziz-pro/flask-store)
+> A full-stack e-commerce application built with Flask.
+
+**Stack:** `Python` `Flask` `SQLite` `HTML/CSS`
+
+---
+
+### 🧪 [Flask Learning App](https://github.com/tariq-aziz-pro/flask_app)
+> A practical Flask application exploring core framework concepts including routing, templates, and database integration.
+
+**Stack:** `Python` `Flask` `Jinja2`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariq-aziz-pro&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tariq-aziz-pro&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
-GitHub: [tariq-aziz-pro](https://github.com/tariq-aziz-pro)
+
+I'm open to **freelance projects**, **collaborations**, and **consulting** on Django/Flask applications.
+
+[![Website](https://img.shields.io/badge/Visit%20My%20Portfolio-aliyarweb.com-0A66C2?style=flat-square&logo=firefox)](https://www.aliyarweb.com)
+[![YouTube](https://img.shields.io/badge/Subscribe%20on%20YouTube-TariqAzizAcademy-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@TariqAzizAcademy)
+[![TikTok](https://img.shields.io/badge/Follow%20on%20TikTok-@instituteoflogic-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@instituteoflogic)
+
+---
+
+<div align="center">
+  <sub>⭐ If you find my work useful, consider starring a repository!</sub>
+</div>
+
