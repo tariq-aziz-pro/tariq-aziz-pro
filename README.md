@@ -1,7 +1,7 @@
 <div align="center">
 
 # Tariq Aziz
-### Python Developer · Django , Flask , ML , Dashboards · Management Systems
+### Python Developer · Django & Flask · Management Systems
 
 [![Website](https://img.shields.io/badge/Portfolio-aliyarweb.com-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://www.aliyarweb.com)
 [![YouTube](https://img.shields.io/badge/YouTube-TariqAzizAcademy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TariqAzizAcademy)
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Python developer based in **Pakistan**, specializing in building practical, scalable web applications using **Django** , **Steamlit** And **Flask**. I focus on solving real-world problems — from school management systems to e-commerce platforms and business dashboards.
+I'm a Python developer based in **Pakistan**, specializing in building practical, scalable web applications using **Django** and **Flask**. I focus on solving real-world problems — from school management systems to e-commerce platforms and business dashboards.
 
 - 🔭 Currently building **management systems** for education and business
 - 🌱 Expanding into **REST APIs** and **data-driven dashboards**
@@ -84,9 +84,9 @@ I'm a Python developer based in **Pakistan**, specializing in building practical
 
 <div align="center">
 
-![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariq-aziz-pro&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tariq-aziz-pro&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tariq-aziz-pro&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tariq-aziz-pro&theme=darkhub&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -105,4 +105,5 @@ I'm open to **freelance projects**, **collaborations**, and **consulting** on Dj
 <div align="center">
   <sub>⭐ If you find my work useful, consider starring a repository!</sub>
 </div>
+
 
