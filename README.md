@@ -86,8 +86,6 @@ I'm a Python developer based in **Pakistan**, specializing in building practical
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tariq-aziz-pro&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tariq-aziz-pro&theme=darkhub&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
